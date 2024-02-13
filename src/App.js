@@ -60,7 +60,7 @@ function App() {
     <>
       <Routes>
         <Route
-          path="/"
+          path="/textutility"
           element={
             <div data-bs-theme={Mode}>
               <Navbar
